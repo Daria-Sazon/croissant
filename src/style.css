@@ -1,0 +1,19 @@
+body {
+  background: #F8E8A6;
+  text-align: center;
+}
+
+.links {
+  width: 200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+div a {
+  color: green;
+}
+
+img {
+  margin: 15px 0;
+}
